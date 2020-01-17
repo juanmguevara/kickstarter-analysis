@@ -1,8 +1,11 @@
 # kickstarter-analysis
 
-### Performing analysis on Kickstarter data to uncover trends
+### Module 1 - Performing Analysis on Kickstarter Data to Uncover Trends
 
-#### Module 1 Analysis
+Outcomes of all the categories
+
+<img src="https://qemi1g.ch.files.1drv.com/y4mpT-_hXsRoLNuFYOs3DnSh42tgBqu-l1stPIR7TPD6npK6J1X_yZs0c0vKpVbhM8PLJ9yJj7_72Je0IxIY2rxfGDzt8QGOwLm3NEQ1PbQmiVpF72BtbSrl62JMoJCPZ3UzUrAricjcTwNpN9IhmZLMdoan3Nt_hIQij0rrM7VDGaTOkBvnVASCnOfPD2skS5JvglehIFlQ42HIYkByv4-DA?width=914&height=1378&cropmode=none" width="914" height="1378" />
+- We have found that there were 525 successful theater campaigns in the United States.
 
 <img src="https://qomj1g.ch.files.1drv.com/y4m4STXxLR4LWOAlckZElDO-nvsujJB4XOTWU-yM56beVUYQITcBHP0LlprEEPVoVu456xGWslKH1vpT4yAVyMl1tSlfQNSpzNaE0-PFn6YnoLlhHJmy2MAQPPVu01mIvvDVgC72PjPim3CjeYQU92_DgWDAb1e5O0Ne34jRF3GPyPY-y_2GF-UE5D62_8h7ZmQlH-_iVt8P4wP5iHIHPVE_w?width=718&height=438&cropmode=none" width="718" height="438" />
 
