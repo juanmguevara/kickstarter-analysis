@@ -1,5 +1,16 @@
 # kickstarter-analysis
-Performing analysis on Kickstarter data to uncover trends
+
+## Performing analysis on Kickstarter data to uncover trends
+
+### Module 1 Analysis
+
+<img src="https://qomj1g.ch.files.1drv.com/y4m4STXxLR4LWOAlckZElDO-nvsujJB4XOTWU-yM56beVUYQITcBHP0LlprEEPVoVu456xGWslKH1vpT4yAVyMl1tSlfQNSpzNaE0-PFn6YnoLlhHJmy2MAQPPVu01mIvvDVgC72PjPim3CjeYQU92_DgWDAb1e5O0Ne34jRF3GPyPY-y_2GF-UE5D62_8h7ZmQlH-_iVt8P4wP5iHIHPVE_w?width=718&height=438&cropmode=none" width="718" height="438" />
+
+
+
+<img src="https://qomi1g.ch.files.1drv.com/y4mHzFLB5jhnzGb0GUMPtjM4R7izL-Lgjyyu8uevUw23q4lhaMQwqkGveMiX672HkGm-CG4Fve6jl8ytK7uwgLHVdtudKglKcOyOL90Q55PRNM0guum-XLgeN6KZSbcMeBXTeAnhM4wJX7KWQaYPdzfcC43UYqT5I-_sVQlswKRHLhoxNkUXi5tVOGXUdZlxGCJogLOzGDDrGaG1-ZZ0MhPfQ?width=769&height=527&cropmode=none" width="769" height="527" />
+
+
 
 ---
 
