@@ -4,8 +4,6 @@
 
 Outcomes of all the categories
 
-<img src="https://qemi1g.ch.files.1drv.com/y4mpT-_hXsRoLNuFYOs3DnSh42tgBqu-l1stPIR7TPD6npK6J1X_yZs0c0vKpVbhM8PLJ9yJj7_72Je0IxIY2rxfGDzt8QGOwLm3NEQ1PbQmiVpF72BtbSrl62JMoJCPZ3UzUrAricjcTwNpN9IhmZLMdoan3Nt_hIQij0rrM7VDGaTOkBvnVASCnOfPD2skS5JvglehIFlQ42HIYkByv4-DA?width=914&height=1378&cropmode=none" width="214" height="378" />
-
 <img src="https://qomi1g.ch.files.1drv.com/y4mHzFLB5jhnzGb0GUMPtjM4R7izL-Lgjyyu8uevUw23q4lhaMQwqkGveMiX672HkGm-CG4Fve6jl8ytK7uwgLHVdtudKglKcOyOL90Q55PRNM0guum-XLgeN6KZSbcMeBXTeAnhM4wJX7KWQaYPdzfcC43UYqT5I-_sVQlswKRHLhoxNkUXi5tVOGXUdZlxGCJogLOzGDDrGaG1-ZZ0MhPfQ?width=769&height=527&cropmode=none" width="569" height="527" />
 
 - We have found that there were 525 successful theater campaigns in the United States. We can easily see which parent categories performed well and which ones did not.
@@ -22,7 +20,7 @@ We have found that while there is only a total of 604 Kickstarter campaigns for 
 
 Line charts are helpful when trying to determine trends. We can see by looking at our new chart that the months of May and June both have a greater success rate.
 
-<img src="https://qomj1g.ch.files.1drv.com/y4m4STXxLR4LWOAlckZElDO-nvsujJB4XOTWU-yM56beVUYQITcBHP0LlprEEPVoVu456xGWslKH1vpT4yAVyMl1tSlfQNSpzNaE0-PFn6YnoLlhHJmy2MAQPPVu01mIvvDVgC72PjPim3CjeYQU92_DgWDAb1e5O0Ne34jRF3GPyPY-y_2GF-UE5D62_8h7ZmQlH-_iVt8P4wP5iHIHPVE_w?width=718&height=438&cropmode=none" width="518" height="438" />
+<img src="https://qomj1g.ch.files.1drv.com/y4m4STXxLR4LWOAlckZElDO-nvsujJB4XOTWU-yM56beVUYQITcBHP0LlprEEPVoVu456xGWslKH1vpT4yAVyMl1tSlfQNSpzNaE0-PFn6YnoLlhHJmy2MAQPPVu01mIvvDVgC72PjPim3CjeYQU92_DgWDAb1e5O0Ne34jRF3GPyPY-y_2GF-UE5D62_8h7ZmQlH-_iVt8P4wP5iHIHPVE_w?width=718&height=438&cropmode=none" width="418" height="438" />
 
 The most successful Kickstarter campaigns were started in May. On the other hand, December doesn’t seem like a great time to launch a campaign.
 
