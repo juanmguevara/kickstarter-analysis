@@ -8,7 +8,7 @@ Outcomes of all the categories
 
 - We have found that there were 525 successful theater campaigns in the United States. We can easily see which parent categories performed well and which ones did not.
 
-Filter by subcategory. We’re using subcategories in order to focus our analysis on an area that is more relevant for Louise: theatrical productions.
+We’re using subcategories in order to focus our analysis on an area that is more relevant for Louise: theatrical productions.
 
 <img src="https://qemj1g.ch.files.1drv.com/y4mZ3ggMudIUZeP3YPuP8UVQdA5V59aUN-Cv5225aIcU_K-8aaLYvEkctJmDyHFBNLhe_CuPJ58_XtoLKrHg8Km7WXkDPpJ2f2nbNq8wNXdtFkFMYqGuhwuEt5_iBZ3_wJz3EhgyMqxQtwyvRb-qGnkYBJt7Fhaoswm3tHehhVRCtXTfsxgOLHdKsrIDJjuDjbI6H51_pZRPw_XICD3rY5kgA?width=1583&height=1147&cropmode=none" width="1583" height="547" />
 
