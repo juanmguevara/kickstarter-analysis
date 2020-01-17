@@ -4,9 +4,7 @@
 
 Outcomes of all the categories
 
-&#x1F534; REVISE IMAGE TO SHOW STACK COLUMN NOT PERCENT STACK
-
-<img src="https://qomi1g.ch.files.1drv.com/y4mHzFLB5jhnzGb0GUMPtjM4R7izL-Lgjyyu8uevUw23q4lhaMQwqkGveMiX672HkGm-CG4Fve6jl8ytK7uwgLHVdtudKglKcOyOL90Q55PRNM0guum-XLgeN6KZSbcMeBXTeAnhM4wJX7KWQaYPdzfcC43UYqT5I-_sVQlswKRHLhoxNkUXi5tVOGXUdZlxGCJogLOzGDDrGaG1-ZZ0MhPfQ?width=769&height=527&cropmode=none" width="1569" height="527" />
+<img src="https://pumi1g.ch.files.1drv.com/y4mCNIkb-7egK0oIaBBqf_0KSXw14DFdEFVGKN7IJjDvtogOeq-HFhC_d_8ffKH8S4m80ib22_1jU6ZzVUPsckHryxVGWk6Jb46kSxLTS8x6_xDOmw-4wzLo8cXmjy7gKPa3qLr-lv0hA_EL5j8qksvPCOI5R-tvQUhCIpB76Kc0Q4XYkgBGmrzclAN2Gp4bQuoqlTDfK93WmzojY4tU2txaw?width=1414&height=843&cropmode=none" width="1414" height="543" />
 
 - We have found that there were 525 successful theater campaigns in the United States. We can easily see which parent categories performed well and which ones did not.
 
@@ -16,7 +14,12 @@ Filter by subcategory. We’re using subcategories in order to focus our analysi
 
 Now we know that the total number of Kickstarter campaigns is just over 4,000, and 3,038 of them are from the U.S. Let’s look at Great Britain’s statistics.
 
-&#x1F534; EMPTY NEED US AND GB IMAGE HERE FOR ANALYSIS
+United States Only
+
+<img src="https://pume1g.ch.files.1drv.com/y4m2iy-awKVHkHHmGHix2VNbjKZYSQDQcH9oUH9VE1pP1M3oKnLarK9LkK4gXcgO5Muz5jFL95ifGlu0i2TYIQvuKOwo3ZgBfm-hAdu3VQGH4sb05Gc7yorxqMxRWOhOBIxk_c3Ts6EKybcZmncf7iuNiJDTZrP2DjxynflJRoedGII_z70V-7p14Rgnhy5xVpC01BUxnDmrsoybfdwCoRvJQ?width=1585&height=1135&cropmode=none" width="1585" height="1135" />
+
+Great Britain Only
+<img src="https://pumf1g.ch.files.1drv.com/y4mWhTOWTPcmFcDaqPljMH12WCc9lPOD04Y9tuqvtNHkFy5D3svsG0EXXdfStPWu0ifG92YEGYP-8PBWy7sC6vh15Bb_tnqSIo4vUB6lpqzssNBA1uV-bXtgptzNGrJK6pLuStaK_CV_c5NGshtOziLskcVlr52D8o5yexLna9KLjGRGu_7cCyVKwXmz1X9UjjmgillspmaaLFxneHvFG5Rsg?width=1585&height=1135&cropmode=none" width="1585" height="1135" />
 
 We have found that while there is only a total of 604 Kickstarter campaigns for plays in Great Britain, the “plays” category is the most successful.
 
