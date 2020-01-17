@@ -20,7 +20,7 @@ We have found that while there is only a total of 604 Kickstarter campaigns for 
 
 Line charts are helpful when trying to determine trends. We can see by looking at our new chart that the months of May and June both have a greater success rate.
 
-<img src="https://qomj1g.ch.files.1drv.com/y4m4STXxLR4LWOAlckZElDO-nvsujJB4XOTWU-yM56beVUYQITcBHP0LlprEEPVoVu456xGWslKH1vpT4yAVyMl1tSlfQNSpzNaE0-PFn6YnoLlhHJmy2MAQPPVu01mIvvDVgC72PjPim3CjeYQU92_DgWDAb1e5O0Ne34jRF3GPyPY-y_2GF-UE5D62_8h7ZmQlH-_iVt8P4wP5iHIHPVE_w?width=718&height=438&cropmode=none" width="418" height="438" />
+<img src="https://qomj1g.ch.files.1drv.com/y4m4STXxLR4LWOAlckZElDO-nvsujJB4XOTWU-yM56beVUYQITcBHP0LlprEEPVoVu456xGWslKH1vpT4yAVyMl1tSlfQNSpzNaE0-PFn6YnoLlhHJmy2MAQPPVu01mIvvDVgC72PjPim3CjeYQU92_DgWDAb1e5O0Ne34jRF3GPyPY-y_2GF-UE5D62_8h7ZmQlH-_iVt8P4wP5iHIHPVE_w?width=718&height=438&cropmode=none" width="1569" height="438" />
 
 The most successful Kickstarter campaigns were started in May. On the other hand, December doesn’t seem like a great time to launch a campaign.
 
