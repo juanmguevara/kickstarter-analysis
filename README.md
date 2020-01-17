@@ -3,6 +3,7 @@ Performing analysis on Kickstarter data to uncover trends
 
 ### Challenge
 
+![image_name]
 (path/to/https://qomg1g.ch.files.1drv.com/y4pVLUHT5N5j_X0seK2mSvofpKTyclJElZxQZ7e_JLcMiIc3aRDt2KIQwY79osU3LOx6QFSaRG_3NJsvjt3smlzj1E3t0R8jUrPSXvE9EaXq0rk3I0aEnMRqaZ2XUuhcdLSnBN8bMXXp9WitZk3K0nKraHOj3TyzAXO3FAo7PVtfIEOR8y8KKKQBr1OUdW2t4YwB0HnpdCmRjBzgdQrG2LgHGFwwX3djDKrWNRwwrCg-Jc/2-Outcomes%20Based%20on%20Goals.png?psid=1)
 
 After reviewing the data, I can conclude that Kickstarter campaigns which had a goal ranging from $1,000 to $4,999 were 73% successful with fulfilling their campaign goal. In total there was 534 campaigns with this goal and 388 of them succeeded. This goal range had the second heights success rate but considering that there were more projects done at this range and keeping a high success rate makes it the most plausible goal to achieve for a campaign regarding plays.
