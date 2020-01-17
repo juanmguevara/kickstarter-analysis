@@ -14,7 +14,7 @@ Filter by subcategory. We’re using subcategories in order to focus our analysi
 
 Now we know that the total number of Kickstarter campaigns is just over 4,000, and 3,038 of them are from the U.S. Let’s look at Great Britain’s statistics.
 
--
+- EMPTY NEED US AND GB IMAGE HERE FOR ANALYSIS -
 
 We have found that while there is only a total of 604 Kickstarter campaigns for plays in Great Britain, the “plays” category is the most successful.
 
@@ -26,7 +26,7 @@ The most successful Kickstarter campaigns were started in May. On the other hand
 
 statistics to our analysis: standard deviation and variance.
 
-<img src="https://qemd1g.ch.files.1drv.com/y4m8aJG0867ieFohCfwipPcUAsHlvBkvYs8GTZ1ulocm4QsUl-hTxnhFwtFLCh1cMFZ4YuCUF7-K9bzy2fbbMTJubRx4PYhcdzdKq83bCB6CV-QZ824GhRlR80ZM3e8IjHydKdFuYo1pJrnnyqlrKePcSXExZ5gtD4YlRL4DwF1elEFMJXiVWl1js0gB7fb0nI7HQurADr0fPj3Q-DlKKBfmQ?width=574&height=416&cropmode=none" width="574" height="416" />
+<img src="https://qemd1g.ch.files.1drv.com/y4m8aJG0867ieFohCfwipPcUAsHlvBkvYs8GTZ1ulocm4QsUl-hTxnhFwtFLCh1cMFZ4YuCUF7-K9bzy2fbbMTJubRx4PYhcdzdKq83bCB6CV-QZ824GhRlR80ZM3e8IjHydKdFuYo1pJrnnyqlrKePcSXExZ5gtD4YlRL4DwF1elEFMJXiVWl1js0gB7fb0nI7HQurADr0fPj3Q-DlKKBfmQ?width=574&height=416&cropmode=none" width="374" height="216" />
 
 Based on these statistics, we can determine the following:
 -	The mean of each distribution is around the 3rd quartile, so the data follows similar distributions in each subset.
