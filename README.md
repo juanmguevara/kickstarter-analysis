@@ -12,11 +12,13 @@ We’re using subcategories in order to focus our analysis on an area that is mo
 
 <img src="https://qemj1g.ch.files.1drv.com/y4mZ3ggMudIUZeP3YPuP8UVQdA5V59aUN-Cv5225aIcU_K-8aaLYvEkctJmDyHFBNLhe_CuPJ58_XtoLKrHg8Km7WXkDPpJ2f2nbNq8wNXdtFkFMYqGuhwuEt5_iBZ3_wJz3EhgyMqxQtwyvRb-qGnkYBJt7Fhaoswm3tHehhVRCtXTfsxgOLHdKsrIDJjuDjbI6H51_pZRPw_XICD3rY5kgA?width=1583&height=1147&cropmode=none" width="1583" height="547" />
 
-Now we know that the total number of Kickstarter campaigns is just over 4,000, and 3,038 of them are from the U.S. Let’s look at Great Britain’s statistics.
+Now we know that the total number of Kickstarter campaigns is just over 4,000, and 3,038 of them are from the U.S. 
 
 United States Only
 
 <img src="https://pume1g.ch.files.1drv.com/y4m2iy-awKVHkHHmGHix2VNbjKZYSQDQcH9oUH9VE1pP1M3oKnLarK9LkK4gXcgO5Muz5jFL95ifGlu0i2TYIQvuKOwo3ZgBfm-hAdu3VQGH4sb05Gc7yorxqMxRWOhOBIxk_c3Ts6EKybcZmncf7iuNiJDTZrP2DjxynflJRoedGII_z70V-7p14Rgnhy5xVpC01BUxnDmrsoybfdwCoRvJQ?width=1585&height=1135&cropmode=none" width="1585" height="535" />
+
+Looking at Great Britain’s statistics.
 
 Great Britain Only
 <img src="https://pumf1g.ch.files.1drv.com/y4mWhTOWTPcmFcDaqPljMH12WCc9lPOD04Y9tuqvtNHkFy5D3svsG0EXXdfStPWu0ifG92YEGYP-8PBWy7sC6vh15Bb_tnqSIo4vUB6lpqzssNBA1uV-bXtgptzNGrJK6pLuStaK_CV_c5NGshtOziLskcVlr52D8o5yexLna9KLjGRGu_7cCyVKwXmz1X9UjjmgillspmaaLFxneHvFG5Rsg?width=1585&height=1135&cropmode=none" width="1585" height="535" />
