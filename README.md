@@ -16,10 +16,10 @@ Now we know that the total number of Kickstarter campaigns is just over 4,000, a
 
 United States Only
 
-<img src="https://pume1g.ch.files.1drv.com/y4m2iy-awKVHkHHmGHix2VNbjKZYSQDQcH9oUH9VE1pP1M3oKnLarK9LkK4gXcgO5Muz5jFL95ifGlu0i2TYIQvuKOwo3ZgBfm-hAdu3VQGH4sb05Gc7yorxqMxRWOhOBIxk_c3Ts6EKybcZmncf7iuNiJDTZrP2DjxynflJRoedGII_z70V-7p14Rgnhy5xVpC01BUxnDmrsoybfdwCoRvJQ?width=1585&height=1135&cropmode=none" width="1585" height="1135" />
+<img src="https://pume1g.ch.files.1drv.com/y4m2iy-awKVHkHHmGHix2VNbjKZYSQDQcH9oUH9VE1pP1M3oKnLarK9LkK4gXcgO5Muz5jFL95ifGlu0i2TYIQvuKOwo3ZgBfm-hAdu3VQGH4sb05Gc7yorxqMxRWOhOBIxk_c3Ts6EKybcZmncf7iuNiJDTZrP2DjxynflJRoedGII_z70V-7p14Rgnhy5xVpC01BUxnDmrsoybfdwCoRvJQ?width=1585&height=1135&cropmode=none" width="1585" height="535" />
 
 Great Britain Only
-<img src="https://pumf1g.ch.files.1drv.com/y4mWhTOWTPcmFcDaqPljMH12WCc9lPOD04Y9tuqvtNHkFy5D3svsG0EXXdfStPWu0ifG92YEGYP-8PBWy7sC6vh15Bb_tnqSIo4vUB6lpqzssNBA1uV-bXtgptzNGrJK6pLuStaK_CV_c5NGshtOziLskcVlr52D8o5yexLna9KLjGRGu_7cCyVKwXmz1X9UjjmgillspmaaLFxneHvFG5Rsg?width=1585&height=1135&cropmode=none" width="1585" height="1135" />
+<img src="https://pumf1g.ch.files.1drv.com/y4mWhTOWTPcmFcDaqPljMH12WCc9lPOD04Y9tuqvtNHkFy5D3svsG0EXXdfStPWu0ifG92YEGYP-8PBWy7sC6vh15Bb_tnqSIo4vUB6lpqzssNBA1uV-bXtgptzNGrJK6pLuStaK_CV_c5NGshtOziLskcVlr52D8o5yexLna9KLjGRGu_7cCyVKwXmz1X9UjjmgillspmaaLFxneHvFG5Rsg?width=1585&height=1135&cropmode=none" width="1585" height="535" />
 
 We have found that while there is only a total of 604 Kickstarter campaigns for plays in Great Britain, the “plays” category is the most successful.
 
