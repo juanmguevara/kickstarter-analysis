@@ -3,11 +3,11 @@ Performing analysis on Kickstarter data to uncover trends
 
 ### Challenge
 
-<img src="https://qomg1g.ch.files.1drv.com/y4m_tLSpZeZN27166X2dydfbXxtG8roVmSlT11g4b0ZtnNFoNPBxP4B5GgV69Qz1AW0HXbWVBAbUcQ4OThPjihi7ubp1bp0j6rxphVoLev01LtTzFKjDRqi0paFWiuiwBz8xU1No-5n2eoSzqhXTl7LSOXRQdfyuCr-IAS28xill7X71B8IBDD33jFOdtoS3u4V-k62odCdVOeNEacqlz1Zjw?width=1352&height=710&cropmode=none" width="1352" height="410" />
+<img src="https://qomg1g.ch.files.1drv.com/y4m_tLSpZeZN27166X2dydfbXxtG8roVmSlT11g4b0ZtnNFoNPBxP4B5GgV69Qz1AW0HXbWVBAbUcQ4OThPjihi7ubp1bp0j6rxphVoLev01LtTzFKjDRqi0paFWiuiwBz8xU1No-5n2eoSzqhXTl7LSOXRQdfyuCr-IAS28xill7X71B8IBDD33jFOdtoS3u4V-k62odCdVOeNEacqlz1Zjw?width=1352&height=710&cropmode=none" width="1352" height="510" />
 
 After reviewing the data, I can conclude that Kickstarter campaigns which had a goal ranging from $1,000 to $4,999 were 73% successful with fulfilling their campaign goal. In total there was 534 campaigns with this goal and 388 of them succeeded. This goal range had the second heights success rate but considering that there were more projects done at this range and keeping a high success rate makes it the most plausible goal to achieve for a campaign regarding plays.
 
-<img src="https://qomh1g.ch.files.1drv.com/y4mf12XFmsQgbF7piFJOQpm9Y4I7xjVwRvNoIWVuM-SKjqSIyv2CaRDrT70uqp_vTXnb-PQtX5z7lIhs1oMF50hEXYlrTdcCDS8CiQTAIT5-lTzn0EXHNSH0r7IcBagF-Nv2tKGONUREk_Uxq-54Khzm80KB8v7xoqIqmzq5garBMMi2pjKvLb4hPXHtaPc5ya4ITgID4fQpu5hBlJD-QuOlw?width=1119&height=640&cropmode=none" width="1119" height="440" />
+<img src="https://qomh1g.ch.files.1drv.com/y4mf12XFmsQgbF7piFJOQpm9Y4I7xjVwRvNoIWVuM-SKjqSIyv2CaRDrT70uqp_vTXnb-PQtX5z7lIhs1oMF50hEXYlrTdcCDS8CiQTAIT5-lTzn0EXHNSH0r7IcBagF-Nv2tKGONUREk_Uxq-54Khzm80KB8v7xoqIqmzq5garBMMi2pjKvLb4hPXHtaPc5ya4ITgID4fQpu5hBlJD-QuOlw?width=1119&height=640&cropmode=none" width="1119" height="540" />
 
 The length of a campaign might not determine the ultimate success or failure, but the month at which the campaign chooses to start can greatly affect its success or failure. In example, as seen on the graph for Outcomes Based on Launch Date you will see the month of May having the most successes totaling to 111 campaigns succeeding and 52 failing. This gives the month of May a 67% rate of success. In addition to that after furthering my analysis of average donations given each month we can see that the Month of May had the heights total sums of donations happen. This coincides with the high success rate happing. 
 
