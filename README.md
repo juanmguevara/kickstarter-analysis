@@ -6,13 +6,13 @@ Outcomes of all the categories
 
 <img src="https://qemi1g.ch.files.1drv.com/y4mpT-_hXsRoLNuFYOs3DnSh42tgBqu-l1stPIR7TPD6npK6J1X_yZs0c0vKpVbhM8PLJ9yJj7_72Je0IxIY2rxfGDzt8QGOwLm3NEQ1PbQmiVpF72BtbSrl62JMoJCPZ3UzUrAricjcTwNpN9IhmZLMdoan3Nt_hIQij0rrM7VDGaTOkBvnVASCnOfPD2skS5JvglehIFlQ42HIYkByv4-DA?width=914&height=1378&cropmode=none" width="214" height="378" />
 
-<img src="https://qomi1g.ch.files.1drv.com/y4mHzFLB5jhnzGb0GUMPtjM4R7izL-Lgjyyu8uevUw23q4lhaMQwqkGveMiX672HkGm-CG4Fve6jl8ytK7uwgLHVdtudKglKcOyOL90Q55PRNM0guum-XLgeN6KZSbcMeBXTeAnhM4wJX7KWQaYPdzfcC43UYqT5I-_sVQlswKRHLhoxNkUXi5tVOGXUdZlxGCJogLOzGDDrGaG1-ZZ0MhPfQ?width=769&height=527&cropmode=none" width="769" height="527" />
+<img src="https://qomi1g.ch.files.1drv.com/y4mHzFLB5jhnzGb0GUMPtjM4R7izL-Lgjyyu8uevUw23q4lhaMQwqkGveMiX672HkGm-CG4Fve6jl8ytK7uwgLHVdtudKglKcOyOL90Q55PRNM0guum-XLgeN6KZSbcMeBXTeAnhM4wJX7KWQaYPdzfcC43UYqT5I-_sVQlswKRHLhoxNkUXi5tVOGXUdZlxGCJogLOzGDDrGaG1-ZZ0MhPfQ?width=769&height=527&cropmode=none" width="569" height="527" />
 
 - We have found that there were 525 successful theater campaigns in the United States. We can easily see which parent categories performed well and which ones did not.
 
 Filter by subcategory. We’re using subcategories in order to focus our analysis on an area that is more relevant for Louise: theatrical productions.
 
-<img src="https://qemj1g.ch.files.1drv.com/y4mZ3ggMudIUZeP3YPuP8UVQdA5V59aUN-Cv5225aIcU_K-8aaLYvEkctJmDyHFBNLhe_CuPJ58_XtoLKrHg8Km7WXkDPpJ2f2nbNq8wNXdtFkFMYqGuhwuEt5_iBZ3_wJz3EhgyMqxQtwyvRb-qGnkYBJt7Fhaoswm3tHehhVRCtXTfsxgOLHdKsrIDJjuDjbI6H51_pZRPw_XICD3rY5kgA?width=1583&height=1147&cropmode=none" width="1583" height="1147" />
+<img src="https://qemj1g.ch.files.1drv.com/y4mZ3ggMudIUZeP3YPuP8UVQdA5V59aUN-Cv5225aIcU_K-8aaLYvEkctJmDyHFBNLhe_CuPJ58_XtoLKrHg8Km7WXkDPpJ2f2nbNq8wNXdtFkFMYqGuhwuEt5_iBZ3_wJz3EhgyMqxQtwyvRb-qGnkYBJt7Fhaoswm3tHehhVRCtXTfsxgOLHdKsrIDJjuDjbI6H51_pZRPw_XICD3rY5kgA?width=1583&height=1147&cropmode=none" width="1583" height="547" />
 
 Now we know that the total number of Kickstarter campaigns is just over 4,000, and 3,038 of them are from the U.S. Let’s look at Great Britain’s statistics.
 
@@ -22,7 +22,7 @@ We have found that while there is only a total of 604 Kickstarter campaigns for 
 
 Line charts are helpful when trying to determine trends. We can see by looking at our new chart that the months of May and June both have a greater success rate.
 
-<img src="https://qomj1g.ch.files.1drv.com/y4m4STXxLR4LWOAlckZElDO-nvsujJB4XOTWU-yM56beVUYQITcBHP0LlprEEPVoVu456xGWslKH1vpT4yAVyMl1tSlfQNSpzNaE0-PFn6YnoLlhHJmy2MAQPPVu01mIvvDVgC72PjPim3CjeYQU92_DgWDAb1e5O0Ne34jRF3GPyPY-y_2GF-UE5D62_8h7ZmQlH-_iVt8P4wP5iHIHPVE_w?width=718&height=438&cropmode=none" width="718" height="438" />
+<img src="https://qomj1g.ch.files.1drv.com/y4m4STXxLR4LWOAlckZElDO-nvsujJB4XOTWU-yM56beVUYQITcBHP0LlprEEPVoVu456xGWslKH1vpT4yAVyMl1tSlfQNSpzNaE0-PFn6YnoLlhHJmy2MAQPPVu01mIvvDVgC72PjPim3CjeYQU92_DgWDAb1e5O0Ne34jRF3GPyPY-y_2GF-UE5D62_8h7ZmQlH-_iVt8P4wP5iHIHPVE_w?width=718&height=438&cropmode=none" width="518" height="438" />
 
 The most successful Kickstarter campaigns were started in May. On the other hand, December doesn’t seem like a great time to launch a campaign.
 
@@ -37,7 +37,7 @@ Based on these statistics, we can determine the following:
 
 Louise mentioned earlier that she’s also interested in Great Britain’s theater market, especially musicals. While she’s committed to creating a play in the U.S., she’s also interested in researching musicals in Great Britain for a future project with an estimated budget of £4,000.
 
-<img src="https://qemc1g.ch.files.1drv.com/y4mfcPtgUIuOfaA0thBBtYpxt4v1Ys7cKEJQaqWnrb_UXfxpTfadB3bJMlvYEYIKMsQUTyRHIcyIqsBKRFUyPIKgriuVE8s5-gwygqbthNLozIPQcJO04fRTR2aaaxt0zgMrYxvu-E9Dxm2h_CqiOgrWHZ4kCIzRT6qMTHepm3A7HrHgxNuo5F_ed6MgDSaWtnV3dSLQ04HbKshEPjuZYHedQ?width=1420&height=1029&cropmode=none" width="1420" height="1029" />
+<img src="https://qemc1g.ch.files.1drv.com/y4mfcPtgUIuOfaA0thBBtYpxt4v1Ys7cKEJQaqWnrb_UXfxpTfadB3bJMlvYEYIKMsQUTyRHIcyIqsBKRFUyPIKgriuVE8s5-gwygqbthNLozIPQcJO04fRTR2aaaxt0zgMrYxvu-E9Dxm2h_CqiOgrWHZ4kCIzRT6qMTHepm3A7HrHgxNuo5F_ed6MgDSaWtnV3dSLQ04HbKshEPjuZYHedQ?width=1420&height=1029&cropmode=none" width="1420" height="529" />
 
 From these plots, we can see that the mean campaign goal is around £4,000. This is outside of the range of outliers for amount pledged, so Louise should probably try to get her play produced for less than £4,000. Half of the campaign goals are less than £2,000, which is just over the 3rd quartile for amounts pledged.
 
