@@ -10,18 +10,18 @@ Outcomes of all the categories
 
 We’re using subcategories in order to focus our analysis on an area that is more relevant for Louise: theatrical productions.
 
-<img src="https://qemj1g.ch.files.1drv.com/y4mZ3ggMudIUZeP3YPuP8UVQdA5V59aUN-Cv5225aIcU_K-8aaLYvEkctJmDyHFBNLhe_CuPJ58_XtoLKrHg8Km7WXkDPpJ2f2nbNq8wNXdtFkFMYqGuhwuEt5_iBZ3_wJz3EhgyMqxQtwyvRb-qGnkYBJt7Fhaoswm3tHehhVRCtXTfsxgOLHdKsrIDJjuDjbI6H51_pZRPw_XICD3rY5kgA?width=1583&height=1147&cropmode=none" width="1583" height="547" />
+<img src="https://ppmi1g.ch.files.1drv.com/y4mLs8x86Kz0hadRTb9nBVc8chE04zpUHtvJkuLW36hTVsq6k0u-GEMFq3K8_urPrvVT-gc0wxpS4rCFlVgNCurGEVBI3ve-dgPo2wS0t9D89BobxJ3R8SvCoX1tjoIg80DtYzjTLcAx3JJBHsEkNqUbVj7ZuzZ90uLPogaPXYPnVQg1Inc-cGcBAupGeSfx4uNI1nba9Te7R525GctVsjLyQ?width=1585&height=1135&cropmode=none" width="1585" height="535" />
 
 Now we know that the total number of Kickstarter campaigns is just over 4,000, and 3,038 of them are from the U.S. 
 
 United States Only
 
-<img src="https://pume1g.ch.files.1drv.com/y4m2iy-awKVHkHHmGHix2VNbjKZYSQDQcH9oUH9VE1pP1M3oKnLarK9LkK4gXcgO5Muz5jFL95ifGlu0i2TYIQvuKOwo3ZgBfm-hAdu3VQGH4sb05Gc7yorxqMxRWOhOBIxk_c3Ts6EKybcZmncf7iuNiJDTZrP2DjxynflJRoedGII_z70V-7p14Rgnhy5xVpC01BUxnDmrsoybfdwCoRvJQ?width=1585&height=1135&cropmode=none" width="1585" height="535" />
+<img src="https://ppmj1g.ch.files.1drv.com/y4myvvwCTMPbacXvbza7jvFqWdfcuhAlc2Mkg4dekhM5iOYrUtH0iXTu9GL2yLylEhUIB7eQRfI6A1qskgul6Jq0J6Hyd7xNy-InmxuvLzc0x4hElHpXvtm5Em62kiP6CpYsyF1wMosrK3aNY6uSnZs4BL6-nvXVrsfgmvZ1vysMix0XLqvavb9SRXR_764KpcPuBAQuaGY1hMyZgsmC7_jXw?width=1585&height=1135&cropmode=none" width="1585" height="535" />
 
 Looking at Great Britain’s statistics.
 
 Great Britain Only
-<img src="https://pumf1g.ch.files.1drv.com/y4mWhTOWTPcmFcDaqPljMH12WCc9lPOD04Y9tuqvtNHkFy5D3svsG0EXXdfStPWu0ifG92YEGYP-8PBWy7sC6vh15Bb_tnqSIo4vUB6lpqzssNBA1uV-bXtgptzNGrJK6pLuStaK_CV_c5NGshtOziLskcVlr52D8o5yexLna9KLjGRGu_7cCyVKwXmz1X9UjjmgillspmaaLFxneHvFG5Rsg?width=1585&height=1135&cropmode=none" width="1585" height="535" />
+<img src="https://ppmg1g.ch.files.1drv.com/y4m4nsKDVShGi8qP4tYS6K6Om5Imsh12NiJZ4Wsd9mfjtPA6B4SiZvRQZFqP7MJH8z5HnPZv0-oW6OpCni3ZCAtSTtiy9IVJ1etyFqTpJKKHOmAhy9ge1USE7XAbCFoRGyP9_Km0bkEAaclNkNVSEsDGGpGEAK1p5VnOBUKY2C9X_K0t3AU8dwvNoId8MQ9ZdXU06a-XWVpRYxBqoamtu6aHQ?width=1585&height=1135&cropmode=none" width="1585" height="535" />
 
 We have found that while there is only a total of 604 Kickstarter campaigns for plays in Great Britain, the “plays” category is the most successful.
 
