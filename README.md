@@ -61,3 +61,5 @@ The length of a campaign might not determine the ultimate success or failure, bu
 <img src="https://qome1g.ch.files.1drv.com/y4myDiAuvPVqPpEu9fjWNeEZ5xqPEwRQIQ0tivgYEYXtTaNbLNlvlFt9Buv7D2nRxcVSUCjyR-ERvAF6NNakf-OQQ8XbH3FgVi3IpPCBA9UbLwuNPVD7w3AzoKvYMuht1jtQmx6D9ug5IoX2OUVFWeJ-YQ73MEqTgbt8PTpEF4onUW5GG3lJwIrPc3CfxFBbXRjInvnhsj2RKrCGxyYEfBjDw?width=820&height=569&cropmode=none" width="620" height="369" />
 
 Subsequently, the time at which the campaign chooses to start can contribute to its ultimate success or failure. I would advise to start your campaign at during May or Jun. With a preference in May, given that it has the highest success rate and June because it has the second highest success rate for campaigns with Plays.
+
+Some limitations of this data set is that we did not complete a statistical analysis generating the mean campaign goal for most of the campaigns, and mean pledge. There was no comparison made for distribution of pledges and goals. If we would have made a Box & Whisker plot we could have been able to make a comparison in values to help us get a better assessment on what the costs should be regarding production on her play. 
